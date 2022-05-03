@@ -1,0 +1,32 @@
+
+
+h3{
+    color: aliceblue;
+    /* font-weight: bold; */
+}
+
+/* .body {
+    background-color: #F4F4FF;
+} */
+
+.margin-top{
+    margin-top: 11vh;
+    padding-left: 3vh;
+}
+
+p{
+    color: aliceblue;
+    font-weight: bold;
+}
+
+/* button{
+    font-weight: bold;
+} */
+
+.vertical {
+    border-left: 6px solid rgb(255, 255, 255);
+    height: 60px;
+    margin-left: 35px;
+    left: 50%;
+}
+
